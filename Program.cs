@@ -41,6 +41,11 @@ namespace LINQedList
             Console.WriteLine("");
 
             // Partitioning Operations
+            var partitioningOperations = new PartitioningOps();
+
+            Console.WriteLine("Exercise Eight:");
+            partitioningOperations.ExerciseEight();
+            Console.WriteLine("");
 
             // Using Custom Types
 
