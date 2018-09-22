@@ -1,0 +1,7 @@
+c:\users\student\source\repos\LINQedList\LINQedList\bin\Debug\LINQedList.exe.config
+c:\users\student\source\repos\LINQedList\LINQedList\bin\Debug\LINQedList.exe
+c:\users\student\source\repos\LINQedList\LINQedList\bin\Debug\LINQedList.pdb
+c:\users\student\source\repos\LINQedList\LINQedList\obj\Debug\LINQedList.csprojAssemblyReference.cache
+c:\users\student\source\repos\LINQedList\LINQedList\obj\Debug\LINQedList.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\LINQedList\LINQedList\obj\Debug\LINQedList.exe
+c:\users\student\source\repos\LINQedList\LINQedList\obj\Debug\LINQedList.pdb
